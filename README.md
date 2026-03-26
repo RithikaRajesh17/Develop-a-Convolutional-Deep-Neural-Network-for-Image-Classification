@@ -2,6 +2,10 @@
 
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
+## Neural Network Model
+
+<img width="1300" height="657" alt="image" src="https://github.com/user-attachments/assets/a8be9503-700b-44ba-8062-ec0611bf8e8f" />
+
 
 ##   PROBLEM STATEMENT AND DATASET
 The problem statement involves building and training a Convolutional Neural Network (CNN) to classify images of fashion items. Specifically, it uses the Fashion-MNIST dataset, which is a common benchmark for image classification tasks.
